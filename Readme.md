@@ -14,7 +14,7 @@ I enjoy turning mathematical concepts and machine learning ideas into practical 
 
 Currently, I'm focused on strengthening my foundations in **ML/DL, algorithms, data structures, and software development** while building projects that solve real-world problems.
 
->  Learn the theory  Build the system  Analyze the results  🚀 Improve it
+>  Learn the theory  Build the system  Analyze the results  Improve it
 
 ---
 
