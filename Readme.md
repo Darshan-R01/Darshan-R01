@@ -1,13 +1,7 @@
-#  Hello World, I'm Darshan R Nayaka
+#  Hillo World, I'm Darshan R Nayaka
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Mathematics+%26+Computing+Student;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+Intelligent+Systems+with+Code;Always+Learning%2C+Building+%26+Experimenting" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Darshan-R01">
-    <img src="https://komarev.com/ghpvc/?username=Darshan-R01&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
 </p>
 
 ---
