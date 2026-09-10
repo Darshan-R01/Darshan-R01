@@ -14,85 +14,52 @@ I enjoy turning mathematical concepts and machine learning ideas into practical 
 
 Currently, I'm focused on strengthening my foundations in **ML/DL, algorithms, data structures, and software development** while building projects that solve real-world problems.
 
-> * Learn the theory
-> * Build the system
-> * Analyze the results
-> * Improve it
+> Learn the theory &nbsp;•&nbsp; Build the system &nbsp;•&nbsp; Analyze the results &nbsp;•&nbsp; Improve it
 
 ---
 
 ## What I'm Building & Exploring
 
-* **Computer Vision & Deep Learning**  
-  Building image classification systems using CNNs, TensorFlow and Keras — including a forest fire detection pipeline.
+**Computer Vision & Deep Learning**  
+Building image classification systems using CNNs, TensorFlow and Keras — including a forest fire detection pipeline.
 
-* **Machine Learning & Predictive Analytics**  
-  Experimenting with regression models such as SVR for financial and numerical prediction problems.
+**Machine Learning & Predictive Analytics**  
+Experimenting with regression models such as SVR for financial and numerical prediction problems.
 
-* **Continuous Growth**  
-  Strengthening my knowledge of mathematics, machine learning, deep learning, algorithms and software engineering.
+**Continuous Growth**  
+Strengthening my knowledge of mathematics, machine learning, deep learning, algorithms and software engineering.
 
 ---
 
 ## Machine Learning & AI
 
-**Machine Learning**
+**Machine Learning**  
+`Scikit-learn` &nbsp;|&nbsp; `Support Vector Regression` &nbsp;|&nbsp; `Collaborative Filtering` &nbsp;|&nbsp; `SVD`
 
-* `Scikit-learn`
-* `Support Vector Regression`
-* `Collaborative Filtering`
-* `SVD`
+**Deep Learning**  
+`TensorFlow` &nbsp;|&nbsp; `Keras` &nbsp;|&nbsp; `CNN` &nbsp;|&nbsp; `Computer Vision`
 
-**Deep Learning**
-
-* `TensorFlow`
-* `Keras`
-* `CNN`
-* `Computer Vision`
-
-**Data & Scientific Computing**
-
-* `NumPy`
-* `Pandas`
-* `Matplotlib`
-* `Jupyter Notebook`
+**Data & Scientific Computing**  
+`NumPy` &nbsp;|&nbsp; `Pandas` &nbsp;|&nbsp; `Matplotlib` &nbsp;|&nbsp; `Jupyter Notebook`
 
 ---
 
 ## Code & Development
 
-**Languages**
+**Languages**  
+`Python` &nbsp;|&nbsp; `C++` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `TypeScript`
 
-* `Python`
-* `C++`
-* `JavaScript`
-* `TypeScript`
+**Web Development**  
+`React` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `Vite` &nbsp;|&nbsp; `HTML5` &nbsp;|&nbsp; `CSS3`
 
-**Web Development**
-
-* `React`
-* `TypeScript`
-* `Vite`
-* `HTML5`
-* `CSS3`
-
-**Data & ML**
-
-* `Pandas`
-* `NumPy`
-* `Scikit-learn`
-* `TensorFlow`
-* `Keras`
+**Data & ML**  
+`Pandas` &nbsp;|&nbsp; `NumPy` &nbsp;|&nbsp; `Scikit-learn` &nbsp;|&nbsp; `TensorFlow` &nbsp;|&nbsp; `Keras`
 
 ---
 
 ## Tools & Environment
 
-* `Git`
-* `GitHub`
-* `VS Code`
-* `Jupyter`
-* `Google Colab`
+`Git` &nbsp;|&nbsp; `GitHub` &nbsp;|&nbsp; `VS Code` &nbsp;|&nbsp; `Jupyter` &nbsp;|&nbsp; `Google Colab`
 
 ---
 
