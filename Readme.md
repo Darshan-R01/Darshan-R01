@@ -61,16 +61,6 @@ Strengthening my knowledge of mathematics, machine learning, deep learning, algo
 
 `Git` &nbsp;|&nbsp; `GitHub` &nbsp;|&nbsp; `VS Code` &nbsp;|&nbsp; `Jupyter` &nbsp;|&nbsp; `Google Colab`
 
----
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darshan-R01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-R01&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 
